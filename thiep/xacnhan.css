@@ -289,7 +289,7 @@
 }
 
 .box-form{
-  height: 800px;
+  height: 900px;
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -297,7 +297,7 @@
   padding: 40px;
   background-image: url('./anh/IMG_1932.PNG');
   background-position: bottom center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
@@ -446,6 +446,41 @@ background-color: #61673A;
 }
 
 
+.box-count{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'SVN-Gotham';
+}
+.count-per{
+  width: 100px;
+  height: 30px;
+  margin: 5px;
+  text-align: center;
+  border-radius: 20px;
+}
+.check-ten{
+  /* background: #fff;
+  border: 1px #111 solid; */
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.xac-nhan{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'SVN-Gotham';
+  font-size: 20px;
+}
+.in-be{
+  font-size: 17px;
+  font-weight: 500;
+}
 
 
 
