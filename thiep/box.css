@@ -184,7 +184,7 @@
     margin: 0 auto; 
   }
 .box-container{
-  height: 950px;
+  height: 990px;
   width: 100%;
   background-image: url('./anh/IMG_1931.PNG');
   background-position: bottom;
@@ -228,6 +228,7 @@
   justify-content: center;
   align-items: center;
   margin: 20px 0;
+  width: 90%;
 }
 .img-btn {
   width: 70%; 
@@ -503,7 +504,7 @@
       font-size: 20px;
     }
     .box-container{
-      height: 850px;
+      height: 930px;
     }
     .box-top{
       margin-top: 50px;
